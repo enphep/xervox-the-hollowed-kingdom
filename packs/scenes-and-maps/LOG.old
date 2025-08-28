@@ -1,0 +1,8 @@
+2025/08/25-18:25:47.771 5454 Recovering log #26
+2025/08/25-18:25:47.777 5454 Delete type=0 #26
+2025/08/25-18:25:47.777 5454 Delete type=3 #24
+2025/08/25-18:33:30.430 775c Level-0 table #31: started
+2025/08/25-18:33:30.430 775c Level-0 table #31: 0 bytes OK
+2025/08/25-18:33:30.432 775c Delete type=0 #29
+2025/08/25-18:33:30.432 775c Manual compaction at level-0 from '!folders!TthTUKLJRXHvpRpw' @ 72057594037927935 : 1 .. '!scenes.tokens.delta.effects!ziABHr7K6vrCImAZ.5VUIyNJ5ua9lwzlF.ilJpdZngHMwnT42O.aWWZTlNS9zYoUay7' @ 0 : 0; will stop at (end)
+2025/08/25-18:33:30.432 775c Manual compaction at level-1 from '!folders!TthTUKLJRXHvpRpw' @ 72057594037927935 : 1 .. '!scenes.tokens.delta.effects!ziABHr7K6vrCImAZ.5VUIyNJ5ua9lwzlF.ilJpdZngHMwnT42O.aWWZTlNS9zYoUay7' @ 0 : 0; will stop at (end)

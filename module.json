@@ -1,0 +1,55 @@
+{
+  "id": "xervox-the-hollowed-kingdom",
+  "title": "Xervox, The Hollowed Kingdom",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Enphep",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "journals",
+      "label": "Journals",
+      "path": "packs/journals",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "scenes-and-maps",
+      "label": "Scenes and maps",
+      "path": "packs/scenes-and-maps",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "npcs-and-mobs",
+      "label": "NPCs and Mobs",
+      "path": "packs/npcs-and-mobs",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "daggerheart",
+      "flags": {}
+    }
+  ],
+  "description": ""
+}
