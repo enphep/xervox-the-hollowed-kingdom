@@ -1,7 +1,9 @@
 {
   "id": "xervox-the-hollowed-kingdom",
   "title": "Xervox, The Hollowed Kingdom",
-  "version": "1.0.0",
+ "version": "0.3.0",
+"manifest": "https://raw.githubusercontent.com/enphep/xervox-the-hollowed-kingdom/main/module.json",
+  "download": "https://github.com/enphep/xervox-the-hollowed-kingdom/releases/download/0.3.0/module.zip",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
